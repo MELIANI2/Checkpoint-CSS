@@ -1,0 +1,140 @@
+body {
+    font-weight: 400;
+    font-family: Roboto, Arial, sans-serif;
+    color: #747474;
+    padding-top: 70px;
+
+}
+
+body {
+    margin: 0;
+}
+
+body {
+    display: block;
+    margin: 8px;
+}
+
+h1 {
+    text-align: center;
+    padding: 30px
+}
+
+.lead {
+    margin: 2.0625rem auto 3.75rem;
+}
+
+.section__inner {
+    zoom: 1;
+    max-width: 1015px;
+    padding: 0 20px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.lead__logo {
+    display: block;
+    margin: 0 auto;
+}
+
+.flexy {
+    margin: 0 -1000px;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-content: stretch;
+}
+
+.col-2 {
+    width: 50%;
+}
+
+[class*=col-] {
+    float: left;
+    min-height: 1px;
+    padding: 10px;
+}
+
+#section__inner1 {
+    zoom: 1;
+    max-width: 1015px;
+    padding: 0 20px;
+    margin: 0 auto;
+    position: relative;
+    margin: 3.75rem auto 2.5rem;
+}
+
+.gridy {
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.fade__el>.fade__el__vis {
+    transform: translate(0);
+    opacity: 1;
+    transition: all .35s ease 0s;
+    col-3 fade__el__vis
+}
+
+.item1 {
+    border-radius: 10px;
+    padding: 2em 2em 0;
+    overflow: hidden;
+    height: 345px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    transition: all .2s ease 0s;
+    box-shadow: 0 5px 10px 0 transparent;
+    transition: box-shadow .2s ease 0s;
+    background: #fff;
+    border: 1px solid rgba(0,0,0,.03);
+    border-radius: 6px;
+    overflow: hidden;
+    max-width: 311px;
+    z-index: 2;
+    position: relative;
+    display: block;
+    color: #747474;
+    background-color: darkkhaki;
+    
+}
+
+.font1 {
+    font-size: 25px;
+    font-weight: bolder;
+    border-style: ridge;
+    border-color: black;
+    text-align: center;
+    padding: 20px;
+}
+
+.font2 {
+    font-size: 22px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.gridy1 {
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    text-align-last: center;
+}
+.gridy2 {
+    margin: auto;
+    display: flex;
+    flex-direction: column-reverse;
+    text-align-last: center;
+}
+.ss {
+    border-style: groove;
+
+}
+.zz {
+    margin: auto;
+    display: flex;
+    flex-direction: column-reverse;
+    text-align-last: center;
+}
